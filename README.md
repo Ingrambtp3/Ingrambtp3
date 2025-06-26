@@ -1,4 +1,4 @@
-# 🛡️ Identity & Access Management Projects by ByteKage (Allon Ingram)
+# 🛡️ Identity & Access Management Projects by ByteKage 
 
 Welcome to my IAM lab collection — where I document real-world identity and cloud security projects that mirror what enterprise teams face every day.
 
