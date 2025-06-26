@@ -1,19 +1,17 @@
-<h1>Hi, I'm Allon! <br/><ay 
+# 🛡️ Identity & Access Management Projects by ByteKage (Allon Ingram)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-- [Capturing Packets with Wireshark](https://github.com/Ingrambtp3/Capturing-Packets-with-Wireshark)
+Welcome to my IAM lab collection — where I document real-world identity and cloud security projects that mirror what enterprise teams face every day.
 
-- [IAM--PROJECTS ](https://github.com/Ingrambtp3/IAM--PROJECTS)
-- [ Build A Home Network](https://github.com/Ingrambtp3/Build-a-Simple-Network) 
-- <h2>Certifications</h2>
-- [CompTIA Security+](https://www.credly.com/badges/bd803fbd-bcf3-4a85-96c9-781358474087/linked_in_profile)
-- [CompTIA A+(1102)]()
-- [ITIL V2 Certification]()
-  
+I specialize in:
+- 🔐 SSO Integration (SAML, OIDC, Kerberos)
+- ☁️ Microsoft Entra ID / Azure AD Governance
+- ⚙️ PowerShell + Graph API Automation
+- 🔄 Hybrid Identity / AD Sync / Just-in-Time Access
 
-<h2> 🤳 Connect with me:</h2>
+Each project is built, broken, and rebuilt to sharpen my skills and help others break into tech.  
+Follow along as I document this journey — one script and scenario at a time.
 
-[<img align="left" alt="AllonIngram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[linkedin]: (https://www.linkedin.com/in/allon-ingram-0a0803226/)
+📍 Based in SC | Known online as **ByteKage**  
+🔗 [LinkedIn](https://www.linkedin.com/in/alloningram) • [Twitter/X](https://twitter.com/bytekage)
 
 
