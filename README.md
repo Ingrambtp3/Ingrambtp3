@@ -31,7 +31,7 @@ Hands-on IAM engineering projects spanning **Microsoft Entra ID, Okta, Auth0, Ke
 ### 🔐 Okta ⇄ Salesforce Lifecycle Automation (SSO + SCIM Provisioning)
 
 **Objective:** Make Okta the single source of truth for Salesforce identities, automating the full Joiner–Mover–Leaver lifecycle.
-**Impact:** Eliminated manual onboarding/offboarding by configuring SAML SSO plus SCIM (OAuth) provisioning — users were created, updated, and deactivated in Salesforce in real time from Okta profile changes, closing the offboarding gap that leaves orphaned SaaS access. `[FILL IN: # of lifecycle scenarios tested, or time saved per user event]`
+**Impact:** Eliminated manual onboarding/offboarding by configuring SAML SSO plus SCIM (OAuth) provisioning — users were created, updated, and deactivated in Salesforce in real time from Okta profile changes, closing the offboarding gap that leaves orphaned SaaS access. 
 **Skills:** Okta · Salesforce · SAML · SCIM · OAuth · Lifecycle Automation
 📁 [Week 12 – Okta ⇄ Salesforce Lifecycle Automation](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week-12-OktaxSalesforce-JML)
 
