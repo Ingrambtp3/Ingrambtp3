@@ -8,7 +8,7 @@ Hands-on IAM engineering projects spanning **Microsoft Entra ID, Okta, Auth0, Ke
 
 ## 🏆 Certifications
 
-- **Microsoft Certified: Identity and Access Administrator Associate (SC-300)** — `[FILL IN: status + date once passed, e.g. "Active — Earned June 2026 | Credential ID: XXXX"]`
+- **Microsoft Certified: Identity and Access Administrator Associate (SC-300) June 2026 **
 - CompTIA Security+ · CompTIA A+ · AZ-900 · ITIL v4 Foundation
 
 -----
@@ -139,6 +139,6 @@ Hands-on IAM engineering projects spanning **Microsoft Entra ID, Okta, Auth0, Ke
 ## 📫 Connect
 
 - **LinkedIn:** [allon-ingram](https://www.linkedin.com/in/allon-ingram-0a0803226)
-- `[FILL IN: portfolio site or email if you want it here]`
+
 
 
