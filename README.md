@@ -8,7 +8,7 @@ Hands-on IAM engineering projects spanning **Microsoft Entra ID, Okta, Auth0, Ke
 
 ## 🏆 Certifications
 
-- **Microsoft Certified: Identity and Access Administrator Associate (SC-300) July 2026 **
+- **Microsoft Certified: Identity and Access Administrator Associate (SC-300) August 2026 **
 - CompTIA Security+ · CompTIA A+ · AZ-900 · ITIL v4 Foundation
 
 -----
